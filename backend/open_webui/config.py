@@ -1136,31 +1136,31 @@ except Exception as e:
 if default_prompt_suggestions == []:
     default_prompt_suggestions = [
         {
-            "title": ["Help me study", "vocabulary for a college entrance exam"],
-            "content": "Help me study vocabulary: write a sentence for me to fill in the blank, and I'll try to pick the correct option.",
+            "title": ["Create", "a market report template"],
+            "content": "Create a simple market report template an office broker could use to summarize submarket trends and recent deals.",
         },
         {
-            "title": ["Give me ideas", "for what to do with my kids' art"],
-            "content": "What are 5 creative things I could do with my kids' art? I don't want to throw them away, but it's also so much clutter.",
+            "title": ["Generate", "LinkedIn post ideas for an office broker"],
+            "content": "Give me 10 LinkedIn post ideas that position me as a knowledgeable and helpful office leasing broker.",
         },
         {
-            "title": ["Tell me a fun fact", "about the Roman Empire"],
-            "content": "Tell me a random fun fact about the Roman Empire",
+            "title": ["Write", "a property marketing description"],
+            "content": "Write a short, compelling marketing description for a Class A downtown office space available for lease.",
         },
         {
-            "title": ["Show me a code snippet", "of a website's sticky header"],
-            "content": "Show me a code snippet of a website's sticky header in CSS and JavaScript.",
+            "title": ["Roleplay", "a tenant rep cold call"],
+            "content": "Pretend to be a CFO of a mid-size company — let’s roleplay a cold call where I try to book a meeting about office relocation.",
         },
         {
             "title": [
-                "Explain options trading",
-                "if I'm familiar with buying and selling stocks",
+                "Explain net leases",
+                "if I'm familiar with office leasing",
             ],
-            "content": "Explain options trading in simple terms if I'm familiar with buying and selling stocks.",
+            "content": "Explain net leases in simple terms if I'm familiar with the commercial real estate office market.",
         },
         {
-            "title": ["Overcome procrastination", "give me tips"],
-            "content": "Could you start by asking me about instances when I procrastinate the most and then give me some suggestions to overcome it?",
+            "title": ["Write an email", "to a potential tenant"],
+            "content": "Write a professional cold email introducing available office space to a potential tenant looking to relocate.",
         },
     ]
 

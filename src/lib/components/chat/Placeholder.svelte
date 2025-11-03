@@ -147,7 +147,7 @@
 								className=" flex items-center "
 							>
 								<span class="line-clamp-1">
-									{models[selectedModelIdx]?.name}
+									{"Welcome to Colliers GPT"}
 								</span>
 							</Tooltip>
 						{:else}
